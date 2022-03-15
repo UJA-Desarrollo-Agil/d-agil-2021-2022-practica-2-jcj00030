@@ -1,5 +1,5 @@
 body {
-    background: #170804 url("../img/page_bg.jpg") repeat-x left top;
+    background: #170804 url("../img/page_bg.jpg") left top;
     font-family: Palatino, Times, "Times New Roman", serif;
     font-size: 18px;
     line-height: 1.6em;
@@ -22,8 +22,8 @@ body {
 }
 #title {
     max-width: 28em;
-    background: #e6e6c6 url("../img/title_bg.jpg") repeat -1.1em -1.1em;
-    margin: 2.2em auto 1.1em auto;
+    background: #e6e6c6 url("../img/fondo.jpg") repeat -1.1em -1.1em;
+    margin: 1.0em auto 1.1em auto;
     padding: 1.7em;
     border: 1.1em solid rgba(0,0,0,0.25);
     cursor: pointer; /* Until we click to start. */
